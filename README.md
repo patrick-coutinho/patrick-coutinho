@@ -30,6 +30,4 @@ em um primeiro momento
   <a href="https://www.linkedin.com/in/ivandropatrickcoutinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
  
-  ![Snake animation](https://github.com/patrick-coutinho/patrick-coutinho/blob/output/github-contribution-grid-snake.svg)
- 
 
