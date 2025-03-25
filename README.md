@@ -1,9 +1,9 @@
 ### Olá! Sou Patrick Coutinho 👋
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando front e back end (Python, javascript, typescript, csharp)
+- 🔭 Hoje trabalho com geografia, geoprocessamento e sensoriamento remoto
+- 🌱 Estudando Python e fazendo doutorado
 - 💬 Fale comigo sobre tecnologias, geografia, programação
-- ⚡ Fato engraçado: sou geógrafo, mas tentei carreira como engenheiro da computação
+- ⚡ Fato interessante: sou geógrafo, mas tentei carreira como engenheiro da computação
 em um primeiro momento
 
 <div align="left">
@@ -12,13 +12,11 @@ em um primeiro momento
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 </div>
     
 ##
